@@ -1,32 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bottle</title>
-    <link>http://www.example.com/</link>
-    <description>Recent content on Bottle</description>
+    <title>Lone Coder on Bottle</title>
+    <link>http://www.example.com/authors/lone-coder/</link>
+    <description>Recent content in Lone Coder on Bottle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Jul 2023 15:24:36 +0530</lastBuildDate><atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>http://www.example.com/about/</link>
-      <pubDate>Sun, 23 Jul 2023 15:29:30 +0530</pubDate>
-      
-      <guid>http://www.example.com/about/</guid>
-      <description>Akshaya Krishnan Link to heading Hello there! 👋 I&amp;rsquo;m Akshaya Krishnan, a first-year student at Amrita Vishwa Vidyapeetham persuing BTech in Computer Science Engineering(AI). I&amp;rsquo;m a passionate developer with a curiosity for learning new things.
-Journey into Development Link to heading I got into development after starting my college journey. I was introduced to amFOSS, a student run club that helps you learn and experience firsthand - how to contribute code, interact with open source communities and participate in open source student programs.</description>
-    </item>
-    
-    <item>
-      <title>Why the name BOTTLE  🤔</title>
-      <link>http://www.example.com/posts/1/</link>
-      <pubDate>Sun, 23 Jul 2023 15:24:36 +0530</pubDate>
-      
-      <guid>http://www.example.com/posts/1/</guid>
-      <description>Ah the reason for naming this BOTTLE is very simple. That is the only thing that came to my mind at the time😅.
-Enjoy the rest of the blog👍.</description>
-    </item>
-    
+    <lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/authors/lone-coder/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown Syntax Guide</title>
       <link>http://www.example.com/posts/markdown-syntax/</link>
@@ -115,30 +95,6 @@ flowchart LR A --&gt; B B --&gt; C C --&gt; D D --&gt; B sequenceDiagram partici
       
       <guid>http://www.example.com/posts/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Contact Me 📞</title>
-      <link>http://www.example.com/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.example.com/contact/</guid>
-      <description>Hello! Feel free to reach out to me via the following platforms:
-🔗 GitHub: https://github.com/akshaya9999/
-📧 Email: akshayakrishnan318@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/akshaya-krishnan-683125280/
-🐦 Twitter: https://twitter.com/akshaya28805
-I&amp;rsquo;m looking forward to connecting with you! Let&amp;rsquo;s chat and collaborate. 😊</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>http://www.example.com/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.example.com/projects/</guid>
-      <description>The following are some of the projects I&amp;rsquo;ve done😊
-TITLE GITHUB LINK Martian Chronicles https://github.com/akshaya9999/Martian_Chronicles My first blog https://github.com/akshaya9999/my-first-blog TIC-TAC-TOE https://github.com/akshaya9999/TIC-TAC-TOE Medico https://github.com/akshaya9999/mediconew </description>
     </item>
     
   </channel>
